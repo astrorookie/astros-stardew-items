@@ -1,0 +1,29 @@
+{
+    "Name": "Infinity's Edge",
+    "Description": "A mythical sword that hasn't been seen for a thousand years.", 
+    "Type": "Sword", 
+    "MinimumDamage": 120, 
+    "MaximumDamage": 180, 
+    "Knockback": 1, 
+    "Accuracy": 100, 
+    "Defense": 10, 
+    "Speed": 10, 
+    "MineDropVar": 0,
+    "MineDropMinimumLevel": -1,
+    "ExtraSwingArea": -1,
+    "CritChance": 0.3, 
+    "CritMultiplier": 10, 
+
+    "CanPurchase": true, 
+    "PurchaseFrom": "Marlon", 
+    "PurchasePrice": 25000, 
+    "PurchaseRequirements": null, 
+    "NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}

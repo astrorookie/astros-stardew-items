@@ -1,0 +1,30 @@
+{
+    "Name": "Master Sword", 
+    "Description": "Originally crafted by a goddess, this sword was later reforged in three sacred flames.", //Description of the product.
+    "Type": "Sword", //Depending on the weapon set this to one of the following: `sword`, `dagger`, or `club`. `Slingshot` is untested.
+
+    "MinimumDamage": 150, 
+    "MaximumDamage": 200, 
+    "Knockback": 1, 
+    "Accuracy": 100, 
+    "Defense": 20, 
+    "Speed": 10, 
+    "MineDropVar": 0,
+    "MineDropMinimumLevel": -1, 
+    "ExtraSwingArea": -1,
+    "CritChance": 0.5, 
+    "CritMultiplier": 10, 
+
+    "CanPurchase": true, 
+    "PurchaseFrom": "Marlon", 
+    "PurchasePrice": 500000, 
+    "PurchaseRequirements": null,
+    "NameLocalization":
+	{
+		/*Information goes here*/
+	},
+	"DescriptionLocalization":
+	{
+		/*Information goes here*/
+	}
+}

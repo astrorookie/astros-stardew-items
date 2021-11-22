@@ -1,0 +1,13 @@
+﻿{
+    "Name": "astrorookie swords and items",
+    "Author": "astrorookie",
+    "Version": "1.0.1",
+    "Description": "SWORDS and now coffee",
+    "MinimumApiVersion": "3.6.0",    
+    "UniqueID": "astrorookie.SylBlade",    
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+}

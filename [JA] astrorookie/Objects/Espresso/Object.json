@@ -1,0 +1,41 @@
+{
+    "Name": "Espresso",
+    "Description": "It looks like an anxiety attack waiting to happen!",
+    "Category": "Cooking",
+    "Edibility": 50,
+    "EdibleIsDrink": true,
+    "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 1,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 3,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 700,
+    },
+    "Price": 1000,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+        "Like": ["Alex", "Abigail", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Hate": ["Jas", "Vincent"],
+    },
+	
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 433,
+            "Count": 10,
+        }],
+	"CanPurchase": false,
+	"IsDefault": true,
+    },
+}
